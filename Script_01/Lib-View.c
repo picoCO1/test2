@@ -141,16 +141,6 @@ Library_MainLibrary()
 	return 0;
 }
 
-Library_NewOne()
-{
-	truclient_step("1", "Function Function_1", "snapshot=NewOne_1.inf");
-	truclient_step("2", "Function Function_2", "snapshot=NewOne_2.inf");
-	truclient_step("3", "Function Function_3", "snapshot=NewOne_3.inf");
-	truclient_step("4", "Function Function_4", "snapshot=NewOne_4.inf");
-
-	return 0;
-}
-
 Library_SecondLibrary()
 {
 	truclient_step("1", "Function NavegateMenus", "snapshot=SecondLibrary_1.inf");

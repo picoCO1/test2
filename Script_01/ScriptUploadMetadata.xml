@@ -24,6 +24,7 @@
     <FileEntry Name="combined_Script_01.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="Libraries\" Filter="2" />
+    <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -45,8 +46,6 @@
     <FileEntry Name="Script_01.sdf" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
-    <FileEntry Name="result1\" Filter="1" />
-    <FileEntry Name="results\" Filter="1" />
     <FileEntry Name="resultSnap\" Filter="1" />
   </GeneralFiles>
 </VugenScriptMetadata>

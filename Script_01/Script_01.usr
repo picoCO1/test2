@@ -66,5 +66,5 @@ Order=
 [StateManagement]
 LastReplayStatus=2
 [ActiveReplay]
-LastReplayedRunName=result1
+LastReplayedRunName=
 ActiveRunName=
