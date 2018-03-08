@@ -8,7 +8,7 @@ GlobalParameterFile=
 NewFunctionHeader=1
 LastActiveAction=Action
 DevelopTool=Vugen
-LastModifyVer=12.55.0.646
+LastModifyVer=12.55.0.911
 ActiveTypes=TruClientWeb
 AdditionalTypes=TruClientWeb
 GenerateTypes=TruClientWeb
@@ -16,14 +16,14 @@ ParamLeftBrace={
 ParamRightBrace=}
 ScriptLanguage=C
 RunType=cci
-LastCodeGenerationVer=12.55.0.646
+LastCodeGenerationVer=12.55.0.911
 DisableRegenerate=0
 Encoding=
 Description=
 ScriptLocale=en-US
 [Actions]
-Lib-View=Lib-View.c
 vuser_init=vuser_init.c
+Lib-View=Lib-View.c
 Action=Action.c
 vuser_end=vuser_end.c
 [VisibleActions]
@@ -42,23 +42,23 @@ C-functions.c=
 globals.h=
 JS-functions.js=
 [Interpreters]
-Lib-View=no
 vuser_init=no
+Lib-View=no
 Action=no
 vuser_end=no
 [Recorded Actions]
-Lib-View=1
 vuser_init=0
+Lib-View=1
 Action=0
 vuser_end=0
 [Modified Actions]
-Lib-View=0
 vuser_init=0
+Lib-View=0
 Action=0
 vuser_end=0
 [Replayed Actions]
-Lib-View=0
 vuser_init=0
+Lib-View=0
 Action=0
 vuser_end=0
 [TransactionsOrder]
@@ -68,4 +68,3 @@ LastReplayStatus=0
 [ActiveReplay]
 LastReplayedRunName=
 ActiveRunName=
-[Transactions]
