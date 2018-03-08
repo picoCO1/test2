@@ -3,10 +3,7 @@
   <ScriptName>Script_01</ScriptName>
   <Protocol>TruClient - Web</Protocol>
   <ActionFiles>
-    <FileEntry Name="vuser_init.c" Filter="2" />
-    <FileEntry Name="Action.c" Filter="2" />
     <FileEntry Name="Lib-View.c" Filter="2" />
-    <FileEntry Name="vuser_end.c" Filter="2" />
   </ActionFiles>
   <GeneralFiles>
     <FileEntry Name="Script_01.usr" Filter="4" />
@@ -21,8 +18,11 @@
     <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
     <FileEntry Name="TruClientScriptMetadata.xml" Filter="2" />
     <FileEntry Name="TC.xsl" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
     <FileEntry Name="combined_Script_01.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+    <FileEntry Name="vuser_init.c" Filter="2" />
     <FileEntry Name="Libraries\" Filter="2" />
     <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
