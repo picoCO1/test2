@@ -1,0 +1,394 @@
+<truLibrary engineVersion="12.55.1333.0" timestamp="Mon Feb 26 2018 15:32:38 GMT-0700 (Mountain Standard Time)">
+<step type="library" stepId="step:{819d95c1-9add-f8ad-4a02-7abe272ccac6}" action="SecondLibrary" level="43" arguments="{}" snapshotId="yanyrgbhg" global="true"><step type="function" stepId="step:{7ef2e517-4d77-4033-ba13-8d8734ddd7b0}" action="NavegateMenus" level="1" arguments="{}" snapshotId="dikavkbdz" index="1" argsSchema="{}"><step type="block" stepId="step:{5366450e-3e10-0590-1311-f3ae75bececa}" action="internal" level="43" arguments="{}" snapshotId="itnqqnagq"><step type="testObject" testObject="testObj:{c922b29d-fdde-4042-78fb-f6843acb1252}" stepId="step:{08407016-b753-8ed7-3a53-6756ddd97e27}" action="Click" level="1" arguments="{&quot;X Coordinate&quot;:{&quot;value&quot;:29},&quot;Y Coordinate&quot;:{&quot;value&quot;:8}}" snapshotId="yxuckdvhx" index="1" recDuration="2"/><step type="testObject" testObject="testObj:{3fbfaa59-fbae-07ab-9126-eecefa9c91cc}" stepId="step:{8faefe54-6138-2320-54ed-0a2a9b7754b1}" action="Click" level="1" arguments="{&quot;X Coordinate&quot;:{&quot;value&quot;:31},&quot;Y Coordinate&quot;:{&quot;value&quot;:8}}" snapshotId="vsttxopgz" index="2"/><step type="testObject" testObject="testObj:{a80f4984-14cd-bcd6-46dd-c9df0f0acc79}" stepId="step:{1a26a71b-15be-a00a-292c-5614c2be53e6}" action="Click" level="1" arguments="{&quot;X Coordinate&quot;:{&quot;value&quot;:26},&quot;Y Coordinate&quot;:{&quot;value&quot;:10}}" snapshotId="ncvljnzcl" index="3" recDuration="3"/><step type="testObject" testObject="testObj:{e5d3c50a-1ce4-dc3a-fed4-afc2d6886dcc}" stepId="step:{8d70435c-7175-e0e3-8c6e-3058d8f2a71c}" action="Click" level="1" arguments="{&quot;X Coordinate&quot;:{&quot;value&quot;:23},&quot;Y Coordinate&quot;:{&quot;value&quot;:17}}" snapshotId="eaeysvroa" index="4" recDuration="6"/><step type="testObject" testObject="testObj:{2d3dc025-832e-c160-082f-f4bc734676e8}" stepId="step:{cdcd9859-92cb-9200-09ce-c05291ff91a9}" action="Click" level="1" arguments="{&quot;X Coordinate&quot;:{&quot;value&quot;:38},&quot;Y Coordinate&quot;:{&quot;value&quot;:16}}" snapshotId="vhamfmsrg" index="5"/></step></step><step type="function" stepId="step:{6b359f00-7eec-0887-9afb-37f14b4d7386}" action="Script_02_Second1" level="1" arguments="{}" snapshotId="dikavkbdz" index="2" argsSchema="{}"><step type="block" stepId="step:{4c9ba7a2-a3cc-9f9b-a384-ff1e61c6e22b}" action="internal" level="43" arguments="{}" snapshotId="itnqqnagq"><step type="testObject" testObject="testObj:{c922b29d-fdde-4042-78fb-f6843acb1252}" stepId="step:{e96c77fe-1925-487f-bb42-d5272861ce22}" action="Click" level="1" arguments="{&quot;X Coordinate&quot;:{&quot;value&quot;:29},&quot;Y Coordinate&quot;:{&quot;value&quot;:8}}" snapshotId="yxuckdvhx" index="1" recDuration="2"/><step type="testObject" testObject="testObj:{3fbfaa59-fbae-07ab-9126-eecefa9c91cc}" stepId="step:{ef751f5d-24bb-169d-3e72-98bf80539f26}" action="Click" level="1" arguments="{&quot;X Coordinate&quot;:{&quot;value&quot;:31},&quot;Y Coordinate&quot;:{&quot;value&quot;:8}}" snapshotId="vsttxopgz" index="2"/><step type="testObject" testObject="testObj:{a80f4984-14cd-bcd6-46dd-c9df0f0acc79}" stepId="step:{d96805e3-f3e3-1a5d-90ae-bd6103a092f5}" action="Click" level="1" arguments="{&quot;X Coordinate&quot;:{&quot;value&quot;:26},&quot;Y Coordinate&quot;:{&quot;value&quot;:10}}" snapshotId="ncvljnzcl" index="3" recDuration="3"/><step type="testObject" testObject="testObj:{e5d3c50a-1ce4-dc3a-fed4-afc2d6886dcc}" stepId="step:{5e1de299-1a44-e0e6-e0ca-b7638af2dd2d}" action="Click" level="1" arguments="{&quot;X Coordinate&quot;:{&quot;value&quot;:23},&quot;Y Coordinate&quot;:{&quot;value&quot;:17}}" snapshotId="eaeysvroa" index="4" recDuration="6"/><step type="testObject" testObject="testObj:{2d3dc025-832e-c160-082f-f4bc734676e8}" stepId="step:{cd59fb3e-153c-b090-59ce-3ec0682db282}" action="Click" level="1" arguments="{&quot;X Coordinate&quot;:{&quot;value&quot;:38},&quot;Y Coordinate&quot;:{&quot;value&quot;:16}}" snapshotId="vhamfmsrg" index="5"/></step></step></step>
+<testObjects><testObject testObjId="testObj:{c922b29d-fdde-4042-78fb-f6843acb1252}" platform="web" autoName="Videos"><roles><role>element</role><role>focusable</role><role>link</role></roles><idents active="Electors"><ident type="XPath"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"value":"//a[text()=\"Videos\"]",
+	"suggestions":["//a[text()=\"Videos\"]","//div[@id=\"main\"]/div[3]/div[5]/div/div/div[1]/div/div/div/div[1]/div/div[2]/a"]
+}
+}]]></ident><ident type="Electors"><![CDATA[{
+"primaryScore":0.72508195,
+"implData":{
+	"ctxScore":0,
+	"electors":[
+		{"id":"tagName","value":"A","score":0.01},
+		{"id":"class","value":"q qs","score":0.15},
+		{"id":"text","value":{"text":"Videos","tagName":"A"},"score":0.4},
+		{"id":"a/href","value":{"url":"/search?q=ABC&source=lnms&tbm=vid&sa=X&ved=ahUKEwikuJKFgjZAhWPmeAKHYwyDPgQ_AUICigB","protocol":"https:","host":"www.google.com","pathname":"/search","search":"?q=ABC&source=lnms&tbm=vid&sa=X&ved=ahUKEwikuJKFgjZAhWPmeAKHYwyDPgQ_AUICigB"},"score":0.45000000000000007},
+		{"id":"leaf","value":true,"score":0.01}
+	],
+	"secondaryData":{
+		"default": {
+				"totalObjs": 131,
+				"maxObjsPerElector": 200,
+				"total": {
+						"tagName": 129,
+						"class": 18,
+						"text": 1,
+						"a/href": 1,
+						"leaf": null
+				},
+				"secondaryScore": 0.41683633159500005,
+				"totalCandidates": 67
+		}
+}
+}
+}]]></ident><ident type="Descriptors"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"ctxScore":0,
+	"userModified":false,
+	"expression":
+		{"op":"and",
+		"active":true,
+		"args":[
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"tagName",
+			"args":[
+				{"op":"property", "args":"tagName"},
+				{"op": "value", "args":"A"}
+			]
+			},
+			{"op":"equals",
+			"active":true,
+			"descriptor":"text",
+			"args":[
+				{"op":"property", "args":"text"},
+				{"op": "value", "args":"Videos"}
+			]
+			}
+		]
+		},
+	"secondaryData":{
+		"default": {
+				"maxObjsPerDescriptor": 200,
+				"total": {
+						"tagName": 129,
+						"text": 1
+				},
+				"totalCandidates": 1
+		}
+}
+}
+}]]></ident></idents><methods><![CDATA[{
+}]]></methods></testObject><testObject testObjId="testObj:{3fbfaa59-fbae-07ab-9126-eecefa9c91cc}" platform="web" autoName="Shopping"><roles><role>element</role><role>focusable</role><role>link</role></roles><idents active="Electors"><ident type="XPath"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"value":"//a[text()=\"Shopping\"]",
+	"suggestions":["//a[text()=\"Shopping\"]","//div[@id=\"main\"]/div[3]/div[5]/div/div/div[1]/div/div/div/div[1]/div/div[3]/a"]
+}
+}]]></ident><ident type="Electors"><![CDATA[{
+"primaryScore":0.72508195,
+"implData":{
+	"ctxScore":0,
+	"electors":[
+		{"id":"tagName","value":"A","score":0.01},
+		{"id":"class","value":"q qs","score":0.15},
+		{"id":"text","value":{"text":"Shopping","tagName":"A"},"score":0.4},
+		{"id":"a/href","value":{"url":"/search?q=ABC&biw=&bih=&tbm=shop&source=lnms&sa=X&ved=ahUKEwivlZvgjZAhVBukKHREuBysQ_AUICygC","protocol":"https:","host":"www.google.com","pathname":"/search","search":"?q=ABC&biw=&bih=&tbm=shop&source=lnms&sa=X&ved=ahUKEwivlZvgjZAhVBukKHREuBysQ_AUICygC"},"score":0.45000000000000007},
+		{"id":"leaf","value":true,"score":0.01}
+	],
+	"secondaryData":{
+		"default": {
+				"totalObjs": 124,
+				"maxObjsPerElector": 200,
+				"total": {
+						"tagName": 121,
+						"class": 25,
+						"text": 2,
+						"a/href": 1,
+						"leaf": null
+				},
+				"secondaryScore": 0.41683633159500005,
+				"totalCandidates": 53
+		}
+}
+}
+}]]></ident><ident type="Descriptors"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"ctxScore":0,
+	"userModified":false,
+	"expression":
+		{"op":"and",
+		"active":true,
+		"args":[
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"tagName",
+			"args":[
+				{"op":"property", "args":"tagName"},
+				{"op": "value", "args":"A"}
+			]
+			},
+			{"op":"equals",
+			"active":true,
+			"descriptor":"text",
+			"args":[
+				{"op":"property", "args":"text"},
+				{"op": "value", "args":"Shopping"}
+			]
+			},
+			{"op":"contained",
+			"active":true,
+			"descriptor":"class",
+			"args":[
+				{"op":"property", "args":"class"},
+				{"op": "value", "args":["q","qs"]}
+			]
+			}
+		]
+		},
+	"secondaryData":{
+		"default": {
+				"maxObjsPerDescriptor": 200,
+				"total": {
+						"tagName": 121,
+						"text": 2,
+						"class": 1
+				},
+				"totalCandidates": 1
+		}
+}
+}
+}]]></ident></idents><methods><![CDATA[{
+}]]></methods></testObject><testObject testObjId="testObj:{a80f4984-14cd-bcd6-46dd-c9df0f0acc79}" platform="web" autoName="Images"><roles><role>element</role><role>focusable</role><role>link</role></roles><idents active="Electors"><ident type="XPath"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"value":"//a[text()=\"Images\"]",
+	"suggestions":["//a[text()=\"Images\"]","//div[@id=\"main\"]/div[3]/div[5]/div/div/div[1]/div/div/div/div[1]/div/div[2]/a"]
+}
+}]]></ident><ident type="Electors"><![CDATA[{
+"primaryScore":0.72508195,
+"implData":{
+	"ctxScore":0,
+	"electors":[
+		{"id":"tagName","value":"A","score":0.01},
+		{"id":"class","value":"q qs","score":0.15},
+		{"id":"text","value":{"text":"Images","tagName":"A"},"score":0.4},
+		{"id":"a/href","value":{"url":"/search?q=ABC&biw=&bih=&tbm=isch&source=lnms&sa=X&ved=ahUKEwjQoq-wgjZAhVvpVkKHUJuAHwQ_AUIAEoAQ","protocol":"https:","host":"www.google.com","pathname":"/search","search":"?q=ABC&biw=&bih=&tbm=isch&source=lnms&sa=X&ved=ahUKEwjQoq-wgjZAhVvpVkKHUJuAHwQ_AUIAEoAQ"},"score":0.45000000000000007},
+		{"id":"leaf","value":true,"score":0.01}
+	],
+	"secondaryData":{
+		"default": {
+				"totalObjs": 8,
+				"maxObjsPerElector": 200,
+				"total": {
+						"tagName": 228,
+						"class": 8,
+						"text": 1,
+						"a/href": 1,
+						"leaf": null
+				},
+				"secondaryScore": 0.41683633159500005,
+				"totalCandidates": 7
+		}
+}
+}
+}]]></ident><ident type="Descriptors"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"ctxScore":0,
+	"userModified":false,
+	"expression":
+		{"op":"and",
+		"active":true,
+		"args":[
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"tagName",
+			"args":[
+				{"op":"property", "args":"tagName"},
+				{"op": "value", "args":"A"}
+			]
+			},
+			{"op":"equals",
+			"active":true,
+			"descriptor":"text",
+			"args":[
+				{"op":"property", "args":"text"},
+				{"op": "value", "args":"Images"}
+			]
+			}
+		]
+		},
+	"secondaryData":{
+		"default": {
+				"maxObjsPerDescriptor": 200,
+				"total": {
+						"tagName": 228,
+						"text": 1
+				},
+				"totalCandidates": 1
+		}
+}
+}
+}]]></ident></idents><methods><![CDATA[{
+}]]></methods></testObject><testObject testObjId="testObj:{e5d3c50a-1ce4-dc3a-fed4-afc2d6886dcc}" platform="web" autoName="More"><roles><role>element</role><role>focusable</role><role>button</role></roles><idents active="Electors"><ident type="XPath"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"value":"(//a[text()=\"More\"])[2]",
+	"suggestions":["(//a[text()=\"More\"])[2]","//div[@id=\"main\"]/div[3]/div[1]/div[5]/div/div/div[1]/div/div/div/div[1]/g-header-menu/a"]
+}
+}]]></ident><ident type="Electors"><![CDATA[{
+"primaryScore":0.5251415500000001,
+"implData":{
+	"ctxScore":0,
+	"electors":[
+		{"id":"tagName","value":"A","score":0.01},
+		{"id":"role","value":"button","score":0.05},
+		{"id":"class","value":"_bMq iadYwRCzbVms-_UwgkgYBDrI hdtb-dd-b","score":0.15},
+		{"id":"text","value":{"text":"More","tagName":"A"},"score":0.4},
+		{"id":"leaf","value":true,"score":0.01}
+	],
+	"secondaryData":{
+		"default": {
+				"totalObjs": 16,
+				"maxObjsPerElector": 200,
+				"total": {
+						"tagName": 294,
+						"role": 15,
+						"class": 2,
+						"text": 2,
+						"leaf": null
+				},
+				"secondaryScore": 0.20856716430750002,
+				"totalCandidates": 2
+		}
+}
+}
+}]]></ident><ident type="Descriptors"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"ctxScore":0,
+	"userModified":false,
+	"expression":
+		{"op":"and",
+		"active":true,
+		"args":[
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"tagName",
+			"args":[
+				{"op":"property", "args":"tagName"},
+				{"op": "value", "args":"A"}
+			]
+			},
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"role",
+			"args":[
+				{"op":"property", "args":"role"},
+				{"op": "value", "args":"button"}
+			]
+			},
+			{"op":"equals",
+			"active":true,
+			"descriptor":"text",
+			"args":[
+				{"op":"property", "args":"text"},
+				{"op": "value", "args":"More"}
+			]
+			}
+		]
+		},
+	"secondaryData":{
+		"default": {
+				"maxObjsPerDescriptor": 200,
+				"total": {
+						"tagName": 294,
+						"role": 7,
+						"text": 1
+				},
+				"totalCandidates": 1
+		}
+}
+}
+}]]></ident></idents><methods><![CDATA[{
+}]]></methods></testObject><testObject testObjId="testObj:{2d3dc025-832e-c160-082f-f4bc734676e8}" platform="web" autoName="Finance"><roles><role>element</role><role>focusable</role><role>listitem</role><role>link</role><role>menuitem</role></roles><idents active="Electors"><ident type="XPath"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"value":"//a[text()=\"Finance\"]",
+	"suggestions":["//a[text()=\"Finance\"]","//div[@id=\"lb\"]/div/a[4]"]
+}
+}]]></ident><ident type="Electors"><![CDATA[{
+"primaryScore":0.7388278525,
+"implData":{
+	"ctxScore":0,
+	"electors":[
+		{"id":"tagName","value":"A","score":0.01},
+		{"id":"role","value":"menuitem","score":0.05},
+		{"id":"class","value":"_VJq q qs","score":0.15},
+		{"id":"text","value":{"text":"Finance","tagName":"A"},"score":0.4},
+		{"id":"a/href","value":{"url":"/search?q=ABC&biw=&bih=&tbm=fin&source=lnms&sa=X&ved=ahUKEwidjpWzgjZAhXspVkKHcvdANUQ_AUIEigD","protocol":"https:","host":"www.google.com","pathname":"/search","search":"?q=ABC&biw=&bih=&tbm=fin&source=lnms&sa=X&ved=ahUKEwidjpWzgjZAhXspVkKHcvdANUQ_AUIEigD"},"score":0.45000000000000007},
+		{"id":"leaf","value":true,"score":0.01}
+	],
+	"secondaryData":{
+		"default": {
+				"totalObjs": 37,
+				"maxObjsPerElector": 200,
+				"total": {
+						"tagName": 340,
+						"role": 10,
+						"class": 32,
+						"text": 2,
+						"a/href": 1,
+						"leaf": null
+				},
+				"secondaryScore": 0.44599401501525004,
+				"totalCandidates": 6
+		}
+}
+}
+}]]></ident><ident type="Descriptors"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"ctxScore":0,
+	"userModified":false,
+	"expression":
+		{"op":"and",
+		"active":true,
+		"args":[
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"tagName",
+			"args":[
+				{"op":"property", "args":"tagName"},
+				{"op": "value", "args":"A"}
+			]
+			},
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"role",
+			"args":[
+				{"op":"property", "args":"role"},
+				{"op": "value", "args":"menuitem"}
+			]
+			},
+			{"op":"equals",
+			"active":true,
+			"descriptor":"text",
+			"args":[
+				{"op":"property", "args":"text"},
+				{"op": "value", "args":"Finance"}
+			]
+			}
+		]
+		},
+	"secondaryData":{
+		"default": {
+				"maxObjsPerDescriptor": 200,
+				"total": {
+						"tagName": 340,
+						"role": 9,
+						"text": 1
+				},
+				"totalCandidates": 1
+		}
+}
+}
+}]]></ident></idents><methods><![CDATA[{
+}]]></methods></testObject></testObjects>
+<transactions/>
+</truLibrary>
