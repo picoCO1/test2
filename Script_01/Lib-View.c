@@ -137,6 +137,7 @@ Library_MainLibrary()
 		}
 		truclient_step("7.3", "Verify Search 's Visible Text contains TC.getParam('result_aus')", "snapshot=MainLibrary_7.3.inf");
 	}
+	truclient_step("8", "Function user1a", "snapshot=MainLibrary_8.inf");
 
 	return 0;
 }
